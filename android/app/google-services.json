@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18187484311",
+    "project_id": "watch-guide",
+    "storage_bucket": "watch-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18187484311:android:f1de5e26918797f9427dd2",
+        "android_client_info": {
+          "package_name": "com.ishan.reviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18187484311-0ttmrdve2t8qgc51m14gtqa04uf4nm44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOC9L0bvbZJKf2kMlRD1D--32yAwwjjY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18187484311-0ttmrdve2t8qgc51m14gtqa04uf4nm44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
